@@ -2,10 +2,10 @@
 **emerie55/emerie55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Hi, i am Innocent Chiemerie 👋
-#### 🌱 I am a Software Engineer
+### Hi, i am Innocent Chiemerie 👋
+##### 🌱 I am a Software Engineer
 
-#### HTML || CSS || JAVASCRIPT || PHP || MYSQL || VUE || LARAVEL
+##### HTML || CSS || JAVASCRIPT || PHP || MYSQL || VUE || LARAVEL
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emerie55&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <br>
