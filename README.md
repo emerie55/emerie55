@@ -12,8 +12,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerie55&layout=compact&card_width=445)](https://github.com/emerie55/github-readme-stats)
 
-<h1 style="color:#f63;"> am testing </h1>
-
 
 - 🔭 I’m currently working on Vue/Laravel Projects
 
