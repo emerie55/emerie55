@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerie55&layout=compact&card_width=445)](https://github.com/emerie55/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emerie55)](https://github.com/emerie55/github-readme-stats)
