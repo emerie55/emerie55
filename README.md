@@ -12,7 +12,7 @@
 <br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerie55&layout=compact&card_width=445)](https://github.com/emerie55/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerie55&layout=compact)](https://github.com/emerie55/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerie55&langs_count=compact)](https://github.com/emerie55/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerie55&langs_count=8)](https://github.com/emerie55/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
