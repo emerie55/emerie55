@@ -3,7 +3,7 @@
 -->
 
 ### Hi, i am Innocent Chiemerie 👋
-##### 🌱 I am a Software Engineer
+#### 🌱 I am a Software Engineer
 
 - 🔭 I’m currently working on Vue/Laravel Projects
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about Web Development
 
-- 📫 How to reach me: linktr.ee/emerieinno
+- 📫 How to reach me: https://linktr.ee/emerieinno
 
 - 😄 Pronouns: He/Him
 
