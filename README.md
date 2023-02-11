@@ -12,12 +12,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerie55&layout=compact&card_width=445)](https://github.com/emerie55/github-readme-stats)
 
-<a href="https://github.com/emerie55/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emerie55&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/emerie55/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emerie55&repo=convoychat" />
-</a>
+<h1 style="color:#f63;"> am testing </h1>
 
 
 - 🔭 I’m currently working on Vue/Laravel Projects
