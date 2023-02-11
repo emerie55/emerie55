@@ -31,5 +31,5 @@
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerie55&layout=compact)](https://github.com/emerie55/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerie55&langs_count=8&card_width=445)](https://github.com/emerie55/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerie55&layout=compact&langs_count=10&card_width=445)](https://github.com/emerie55/github-readme-stats)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emerie55)](https://github.com/emerie55/github-readme-stats) -->
